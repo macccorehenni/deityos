@@ -1,4 +1,4 @@
-#DeityOS
+# DeityOS
 **THE OS FOR GODS**
 I'm gathering files here for what will eventually be a full OS.
 For now:
