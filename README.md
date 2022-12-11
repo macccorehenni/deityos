@@ -1,2 +1,2 @@
-# deityos
-A OS based off of TempleOS, please help
+# deityos— theming
+This branch is for beta theming. 
